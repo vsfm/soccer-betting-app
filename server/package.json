@@ -1,0 +1,22 @@
+{
+  "name": "soccer-betting-app-server",
+  "version": "1.0.0",
+  "description": "Server side for soccer-betting-app application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsfm/soccer-betting-app.git"
+  },
+  "author": "Victor Senna Freire Montalvão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsfm/soccer-betting-app/issues"
+  },
+  "homepage": "https://github.com/vsfm/soccer-betting-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
